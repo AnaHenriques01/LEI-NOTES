@@ -1,0 +1,9 @@
+[submodule "Aprendizagem e Decisão Inteligentes/material-ADI"]
+	path = Aprendizagem e Decisão Inteligentes/material-ADI
+	url = https://github.com/AnaHenriques01/material-ADI
+[submodule "Inteligência Artificial/material-IA"]
+	path = Inteligência Artificial/material-IA
+	url = https://github.com/AnaHenriques01/material-IA
+[submodule "Sistemas Distribuídos/guioesSD"]
+	path = Sistemas Distribuídos/guioesSD
+	url = https://github.com/AnaHenriques01/guioesSD
